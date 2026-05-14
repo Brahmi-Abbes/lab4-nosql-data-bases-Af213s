@@ -1,0 +1,11 @@
+id,prenom,nom,universite,filiere,annee,ville
+E001,Ahmed,Bensalem,USTHB,Informatique,3,Alger
+E002,Fatima,Ouali,USTHB,Informatique,3,Alger
+E003,Karim,Meziane,UMBB,Informatique,2,Boumerdes
+E004,Yasmina,Hamdi,USTO,Informatique,4,Oran
+E005,Rania,Belkacem,UMC,GL,3,Constantine
+E006,Mehdi,Derbal,USTHB,Electronique,2,Alger
+E007,Sara,Amrani,UBMA,Telecoms,3,Annaba
+E008,Youcef,Cherif,UMBB,Mathematiques,4,Boumerdes
+E009,Lina,Boudia,USTHB,Informatique,1,Alger
+E010,Anis,Haddar,USTO,GL,3,Oran
